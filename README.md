@@ -3,7 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RogerFernandoBR)](https://github.com/RogerFernandoBR)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerfernandocarvalho/)](https://www.linkedin.com/in/rogerfernandocarvalho/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-ed4956?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://Instagram.com/rogerfernandocarvalho)](https://www.instagram.com/rogerfernandocarvalho/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&labelColor=dd2a7b&logo=instagram&logoColor=white&link=https://Instagram.com/rogerfernandocarvalho)](https://www.instagram.com/rogerfernandocarvalho/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCyXaCb2wsbo5G7jm1lA2kVA)
 
 ### About me
