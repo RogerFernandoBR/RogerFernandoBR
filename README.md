@@ -12,4 +12,4 @@ Hello! My name is Roger and I'm a web developer with over 6 years of experience 
 
 - [Youtube](https://www.youtube.com/RogerCarvalhoBR) 👨🏼‍🏫 - It's are technical courses on many technologies - Working on it.
 - [Blog](https://www.rogercarvalho.com.br/blog) ✍🏼 - I'm write about many things - Working on it.
-- [Website](https://rogercarvalho.com.br/) 💻 - Working on it.
+- [Website](https://rogercarvalho.com.br/) 💻
